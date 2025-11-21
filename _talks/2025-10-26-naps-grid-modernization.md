@@ -11,4 +11,4 @@ location: "USA"
 Presented our research on value-based grid modernization at the North American Power Symposium (NAPS) 2025. This work proposes a framework for evaluating grid modernization projects by assessing their social benefits.
 
 <!-- Add your presentation photo here -->
-<!-- ![Presenting at NAPS 2025](/images/naps2025-grid-modernization.jpg) -->
+![Presenting at NAPS 2025](/images/naps2025-grid-modernization.jpg) 
