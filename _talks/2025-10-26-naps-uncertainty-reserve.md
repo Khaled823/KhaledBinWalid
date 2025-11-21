@@ -14,4 +14,4 @@ It was a great experience presenting at the North American Power Symposium (NAPS
 
 This presentation covered our work on uncertainty reserve design methodology for the New York Power Grid with high offshore wind resources.
 
-![Presenting at NAPS 2025]({{ site.baseurl }}/images/naps2025-uncertainty-reserve.jpg) 
+<img src="{{ '/images/naps2025-uncertainty-reserve.jpg' | relative_url }}" alt="Presenting at NAPS 2025"> 

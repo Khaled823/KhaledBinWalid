@@ -12,4 +12,4 @@ header:
 
 Presented our research on short-term load forecasting using advanced machine learning approaches at the 56th North American Power Symposium (NAPS) 2024. The presentation covered spatial variability analysis and model performance evaluation.
 
-![Presenting at NAPS 2024]({{ site.baseurl }}/images/naps2024-load-forecasting.jpg)
+<img src="{{ '/images/naps2024-load-forecasting.jpg' | relative_url }}" alt="Presenting at NAPS 2024">
