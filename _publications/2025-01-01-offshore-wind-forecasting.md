@@ -3,7 +3,7 @@ title: "Economic and Reliability Value of Improved Offshore Wind Forecasting in 
 collection: publications
 category: manuscripts
 permalink: /publication/2025-offshore-wind-forecasting
-date: submitted
+date: 2025-01-01
 venue: 'Applied Energy'
 citation: 'K. B. Walid, F. Ye, J. Ji, A. A. Ezzat, T. Miles, Y. L. Jiang, "Economic and Reliability Value of Improved Offshore Wind Forecasting in Bulk Power Grid Operation: A Case Study of The New York Power Grid," <i>Applied Energy</i>, Submitted.'
 ---
