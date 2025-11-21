@@ -23,10 +23,10 @@ repository               : "Khaled823/KhaledBinWalid"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Khaled Bin Walid"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "PhD Candidate in [Your Field] at Clarkson University"
+  bio              : "PhD Candidate in Electrical & Computer Engineering at Clarkson University"
   location         : "Potsdam,New York, USA"
   occupation       : "Phd Candidate"
   employer         : "Clarkson University"
