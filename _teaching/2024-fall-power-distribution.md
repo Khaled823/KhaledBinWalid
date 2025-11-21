@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate/Undergraduate Course"
 permalink: /teaching/2024-power-distribution
 venue: "Clarkson University, Electrical & Computer Engineering"
-date: 2024-08-01
+date: Fall 2025
 location: "Potsdam, NY, USA"
 ---
 

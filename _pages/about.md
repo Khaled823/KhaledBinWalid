@@ -23,7 +23,7 @@ With three years of research experience and over five years of industry experien
 I am currently working on several collaborative and industry-sponsored projects:
 
 - **Value of Lost Load Study** (NYISO): Customizing VOLL estimates for individual utilities in New York
-- **Operational Energy Adequacy** (NYISO): Designing operational resource adequacy tools and risk-informed CACT tools
+- **Operational Energy Adequacy** (NYISO): Designing operational resource adequacy tools and risk-informed Capacity Analysis and Commitment Tools (CACT) tools
 - **Grid Capacity Expansion** (Avangrid): Evaluating social benefits of grid expansion
 - **AIRU-WRF Project** (DOE/NOWRDC): AI-powered offshore wind forecasting and grid integration studies with Rutgers University
 - **REU Site on Resilient Power Systems** (NSF): Mentoring summer students on uncertainty reserve design, Ramping need and resource adequacy modeling
