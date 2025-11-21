@@ -26,7 +26,7 @@ I am currently working on several collaborative and industry-sponsored projects:
 - **Operational Energy Adequacy** (NYISO): Designing operational resource adequacy tools and risk-informed CACT tools
 - **Grid Capacity Expansion** (Avangrid): Evaluating social benefits of grid expansion
 - **AIRU-WRF Project** (DOE/NOWRDC): AI-powered offshore wind forecasting and grid integration studies with Rutgers University
-- **REU Site on Resilient Power Systems** (NSF): Mentoring summer students on uncertainty reserve design and resource adequacy modeling
+- **REU Site on Resilient Power Systems** (NSF): Mentoring summer students on uncertainty reserve design, Ramping need and resource adequacy modeling
 
 ## Education
 

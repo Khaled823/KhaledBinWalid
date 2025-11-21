@@ -3,8 +3,8 @@ title: "Operational Resource Adequacy in Reliable Grid Operation with High Renew
 collection: publications
 category: conferences
 permalink: /publication/2025-operational-resource-adequacy
-date: 2025-06-02
-venue: '2025 57th North American Power Symposium (NAPS)'
+date: 2025-10-26
+venue: '57th North American Power Symposium (NAPS)'
 citation: 'L. Hobbs, K. B. Walid, Y. L. Jiang, "Operational Resource Adequacy in Reliable Grid Operation with High Renewable Resources," <i>2025 57th North American Power Symposium (NAPS)</i>, In Press.'
 ---
 
