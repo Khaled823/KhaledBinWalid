@@ -1,152 +1,232 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Khaled Bin Walid",
+    "email": "walidk@clarkson.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://khaled823.github.io/KhaledBinWalid",
+    "summary": "PhD Candidate in Electrical & Computer Engineering at Clarkson University",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Potsdam, New York",
       "countryCode": "US",
-      "region": ""
+      "region": "New York"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=r7Qf6k0AAAAJ"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0009-0009-9481-9714"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Khaled823",
+        "url": "https://github.com/Khaled823"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "khaled-823-d",
+        "url": "https://www.linkedin.com/in/khaled-823-d"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Walton Hi-Tech Industries PLC",
+      "position": "Senior Supply Chain Manager",
+      "website": "",
+      "startDate": "2017",
+      "endDate": "2022",
+      "summary": "Led progressive career path from Assistant Engineer to Senior Manager, overseeing cross-functional teams in supply chain, procurement, and product development.",
+      "highlights": [
+        "Directed large-scale supply chain operations with focus on risk management, cost optimization, and strategic procurement",
+        "Implemented data-driven demand forecasting models (ARIMA, ML-based approaches), reducing forecasting error variance by 15%",
+        "Negotiated supplier contracts and optimized procurement strategy, achieving up to 8-10% cost savings annually",
+        "Led quality improvement initiative using Root Cause Analysis (RCA), reducing defect rates to below 0.2%",
+        "Supervised teams of up to 20 professionals"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Clarkson University",
+      "area": "Electrical & Computer Engineering",
+      "studyType": "Ph.D. Candidate",
+      "startDate": "2023",
+      "endDate": "Present",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Clarkson University",
+      "area": "Electrical & Computer Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2023",
+      "endDate": "2025",
+      "gpa": "3.97/4.00",
+      "courses": []
+    },
+    {
+      "institution": "University of Dhaka",
+      "area": "Electrical & Electronics Engineering",
+      "studyType": "M.Sc.",
+      "startDate": "2016",
       "endDate": "2018",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "University of Dhaka",
+      "area": "Electrical & Electronics Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2012",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Optimization & Power Systems",
+      "level": "",
+      "keywords": ["Optimization modeling (Gurobi)", "Electricity Market Design & Operation", "Energy Storage Scheduling"]
+    },
+    {
+      "name": "Machine Learning & Forecasting",
+      "level": "",
+      "keywords": ["Data Analysis", "Electricity Demand Forecasting", "Wind Power Forecasting"]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["C", "C++", "Python", "Julia", "MATLAB"]
+    },
+    {
+      "name": "Simulation Tools",
+      "level": "",
+      "keywords": ["PLEXOS", "Simulink", "PSCAD", "MultiSim", "Proteus", "CISCO Packet Tracer"]
+    },
+    {
+      "name": "Other Tools",
+      "level": "",
+      "keywords": ["LaTeX", "Microsoft Office", "Project Management"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Economic and Reliability Value of Improved Offshore Wind Forecasting in Bulk Power Grid Operation: A Case Study of The New York Power Grid",
+      "publisher": "Applied Energy",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "This paper investigates the economic and reliability value of improved offshore wind forecasting in bulk power grid operation, using the New York Power Grid as a case study.",
+      "status": "Submitted"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "A Risk Informed Capacity Analysis Commitment Tool for Reliable Bulk Power System Operation",
+      "publisher": "2026 IEEE Power & Energy Society General Meeting (PESGM)",
+      "releaseDate": "2026-01-01",
+      "website": "",
+      "summary": "This paper presents a risk-informed capacity analysis commitment tool designed for reliable bulk power system operation.",
+      "status": "Submitted"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Uncertainty Reserve Design of the New York Power Grid with High Offshore Wind Resources",
+      "publisher": "57th North American Power Symposium (NAPS)",
+      "releaseDate": "2025-10-26",
+      "website": "",
+      "summary": "This paper presents an uncertainty reserve design methodology for the New York Power Grid with high offshore wind resources.",
+      "status": "In Press"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Operational Resource Adequacy in Reliable Grid Operation with High Renewable Resources",
+      "publisher": "57th North American Power Symposium (NAPS)",
+      "releaseDate": "2025-10-26",
+      "website": "",
+      "summary": "This paper addresses operational resource adequacy challenges in reliable grid operation with high penetration of renewable resources.",
+      "status": "In Press"
+    },
+    {
+      "name": "Value-Based Grid Modernization: Project Evaluation by Social Benefits",
+      "publisher": "57th North American Power Symposium (NAPS)",
+      "releaseDate": "2025-06-01",
+      "website": "",
+      "summary": "This paper proposes a value-based approach for grid modernization project evaluation by assessing social benefits.",
+      "status": "In Press"
+    },
+    {
+      "name": "Reserve Procurement in the New York Power Grid with Offshore Wind Farms",
+      "publisher": "56th North American Power Symposium (NAPS)",
+      "releaseDate": "2024-10-02",
+      "website": "https://doi.org/10.1109/NAPS61145.2024.10741830",
+      "summary": "This paper investigates reserve procurement strategies in the New York Power Grid with offshore wind farms."
+    },
+    {
+      "name": "Short-Term Load Forecasting with Advanced Machine Learning Approaches: Spatial Variability and Model Performance",
+      "publisher": "56th North American Power Symposium (NAPS)",
+      "releaseDate": "2024-10-01",
+      "website": "https://doi.org/10.1109/NAPS61145.2024.10741627",
+      "summary": "This paper presents advanced machine learning approaches for short-term load forecasting, analyzing spatial variability and model performance."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Uncertainty Reserve Design of the New York Power Grid with High Offshore Wind Resources",
+      "event": "57th North American Power Symposium (NAPS)",
+      "date": "2025-10-26",
+      "location": "USA",
+      "description": "Conference presentation on uncertainty reserve design methodology for the New York Power Grid with high offshore wind resources."
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "name": "Value-Based Grid Modernization: Project Evaluation by Social Benefits",
+      "event": "57th North American Power Symposium (NAPS)",
+      "date": "2025-10-26",
+      "location": "USA",
+      "description": "Conference presentation on value-based grid modernization framework for evaluating grid modernization projects by assessing their social benefits."
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Short-Term Load Forecasting with Advanced Machine Learning Approaches: Spatial Variability and Model Performance",
+      "event": "56th North American Power Symposium (NAPS)",
+      "date": "2024-10-13",
+      "location": "El Paso, TX, USA",
+      "description": "Conference presentation on short-term load forecasting using advanced machine learning approaches, covering spatial variability analysis and model performance evaluation."
     }
   ],
-  "teaching": [
+  "teaching": [],
+  "portfolio": [],
+  "certifications": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "name": "Programming for Everybody (Getting Started with Python) & Machine Learning",
+      "issuer": "Coursera"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "name": "Productivity Improvement Tools & Technique and 5S Implementation",
+      "issuer": "National Productivity Organization (NPO)"
     }
   ],
-  "portfolio": [
+  "awards": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Student Member",
+      "organization": "IEEE Power & Energy Society, IEEE Graduate Student Membership, IEEE Young Professionals"
+    },
+    {
+      "title": "Former Member",
+      "organization": "Electrical and Electronics Club, University of Dhaka"
+    },
+    {
+      "title": "1st Runner-Up, Circuit Competition",
+      "organization": "Electronics & Communication Club, University of Dhaka"
+    },
+    {
+      "title": "Best Employee of the Month",
+      "organization": "Sourcing & Planning Division, Walton Hi-Tech Industries PLC"
     }
   ]
 }
