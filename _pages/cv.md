@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (PDF)](/files/CV%20khaled.pdf){: .btn .btn--primary}
+[Download CV (PDF)]({{ base_path }}/files/CV%20khaled.pdf){: .btn .btn--primary}
 
 ## Education
 

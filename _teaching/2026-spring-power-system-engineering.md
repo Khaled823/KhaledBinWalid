@@ -22,9 +22,8 @@ During this course, students learn three-phase circuit systems, transmission lin
 | Transformers | Ideal & practical transformer, equivalent circuit, per unit system connections |
 | Transmission Line Parameters | Resistance, inductance and capacitance, conductor bundling, electric field |
 | Transmission Lines: Steady-State Operation | Short, medium, and long line models, reactive compensation |
-| **Midterm Exam** | **In-person (Feb. 24th or Feb. 26th)** |
 | Power Flows | Various methods for power flow study, computer simulation method |
 | Symmetrical Faults | Series R-L circuit, three-phase short circuit, bus impedance matrix |
 | Symmetrical Component | Derivation and use of symmetrical components for system modeling |
 | Fault Current Calculation | Symmetrical networks for fault analysis |
-| **Final Exam** | **In-person (April 29th to May 5th)** |
+

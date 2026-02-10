@@ -22,10 +22,9 @@ Course covers design, operation, and control of modern electric power distributi
 | Transformers | Transformer modeling in distribution systems |
 | Feeder Modeling | Overhead lines and cables modeling |
 | Volt Regulation | Regulator, regulator voltage control, capacitor bank control |
-| **Midterm Exam** | **Format: TBD** |
 | Load Flow | Distribution power flow |
 | Volt/Var and CVR | Voltage control, conservation voltage reduction |
 | FLISR | Fault location, isolation and service restoration |
 | Protection | Fuse to fuse coordination, TCC curve |
 | Advanced Applications | Smart meters, smart inverter control |
-| **Final Exam** | **Format: TBD; potentially replace with course project** |
+
