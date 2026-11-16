@@ -122,44 +122,39 @@
   "references": [],
   "publications": [
     {
-      "name": "Economic and Reliability Value of Improved Offshore Wind Forecasting in Bulk Power Grid Operation: A Case Study of The New York Power Grid",
-      "publisher": "Applied Energy",
-      "releaseDate": "2025-01-01",
-      "website": "",
-      "summary": "This paper investigates the economic and reliability value of improved offshore wind forecasting in bulk power grid operation, using the New York Power Grid as a case study.",
-      "status": "Submitted"
+      "name": "Economic and Reliability Value of Improved Offshore Wind Forecasting in Bulk Power Grid Operation: A Case Study of the New York Power Grid",
+      "publisher": "IEEE Access",
+      "releaseDate": "2026-09-23",
+      "website": "https://doi.org/10.1109/ACCESS.2026.3737067",
+      "summary": "This paper investigates the economic and reliability value of improved offshore wind forecasting in bulk power grid operation, using the New York Power Grid as a case study."
     },
     {
       "name": "A Risk Informed Capacity Analysis Commitment Tool for Reliable Bulk Power System Operation",
       "publisher": "2026 IEEE Power & Energy Society General Meeting (PESGM)",
-      "releaseDate": "2026-01-01",
-      "website": "",
-      "summary": "This paper presents a risk-informed capacity analysis commitment tool designed for reliable bulk power system operation.",
-      "status": "Submitted"
+      "releaseDate": "2026-07-19",
+      "website": "https://doi.org/10.1109/PESGM58988.2026.11693734",
+      "summary": "This paper presents a risk-informed capacity analysis commitment tool designed for reliable bulk power system operation."
     },
     {
       "name": "Uncertainty Reserve Design of the New York Power Grid with High Offshore Wind Resources",
-      "publisher": "57th North American Power Symposium (NAPS)",
+      "publisher": "2025 57th North American Power Symposium (NAPS)",
       "releaseDate": "2025-10-26",
-      "website": "",
-      "summary": "This paper presents an uncertainty reserve design methodology for the New York Power Grid with high offshore wind resources.",
-      "status": "In Press"
+      "website": "https://doi.org/10.1109/NAPS66256.2025.11272234",
+      "summary": "This paper presents an uncertainty reserve design methodology for the New York Power Grid with high offshore wind resources."
     },
     {
       "name": "Operational Resource Adequacy in Reliable Grid Operation with High Renewable Resources",
-      "publisher": "57th North American Power Symposium (NAPS)",
+      "publisher": "2025 57th North American Power Symposium (NAPS)",
       "releaseDate": "2025-10-26",
-      "website": "",
-      "summary": "This paper addresses operational resource adequacy challenges in reliable grid operation with high penetration of renewable resources.",
-      "status": "In Press"
+      "website": "https://doi.org/10.1109/NAPS66256.2025.11272221",
+      "summary": "This paper addresses operational resource adequacy challenges in reliable grid operation with high penetration of renewable resources."
     },
     {
       "name": "Value-Based Grid Modernization: Project Evaluation by Social Benefits",
-      "publisher": "57th North American Power Symposium (NAPS)",
-      "releaseDate": "2025-06-01",
-      "website": "",
-      "summary": "This paper proposes a value-based approach for grid modernization project evaluation by assessing social benefits.",
-      "status": "In Press"
+      "publisher": "2025 57th North American Power Symposium (NAPS)",
+      "releaseDate": "2025-10-26",
+      "website": "https://doi.org/10.1109/NAPS66256.2025.11272424",
+      "summary": "This paper proposes a value-based approach for grid modernization project evaluation by assessing social benefits."
     },
     {
       "name": "Reserve Procurement in the New York Power Grid with Offshore Wind Farms",
